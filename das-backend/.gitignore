@@ -1,0 +1,14 @@
+#ignore virtual envs
+venv/
+env/
+
+#ignore IDE/editor config files
+.vscode/
+.idea/
+
+#Ignore environment variables
+.env
+*.env
+
+#python bytecode
+__pycache__
